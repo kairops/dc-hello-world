@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Please visit https://github.com/tpbtools/dc-hello-world
+
 # Docker Command: Hello World
 
 Hello World!
