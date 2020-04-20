@@ -1,6 +1,6 @@
 # DEPRECATED
 
-Please visit https://github.com/tpbtools/dc-hello-world
+Please visit https://github.com/ayudadigital/dc-hello-world
 
 # Docker Command: Hello World
 
